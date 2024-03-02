@@ -1,0 +1,710 @@
+.f-r-a-m-e-delhi-airport-child {
+  height: 79px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-black);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: none;
+  max-width: 100%;
+}
+.about1,
+.home1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  cursor: pointer;
+  z-index: 1;
+}
+.f-r-a-m-emore,
+.t-e-x-thome {
+  display: flex;
+  align-items: flex-start;
+}
+.t-e-x-thome {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.f-r-a-m-emore {
+  width: 234px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.contact1,
+.more1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 1;
+}
+.contact1 {
+  white-space: nowrap;
+}
+.f-r-a-m-econtact {
+  width: 174px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.loginsign-in1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  white-space: nowrap;
+  cursor: pointer;
+  z-index: 1;
+}
+.f-r-a-m-e-delhi-airport,
+.frame-delhi-d-e-l-delhi-airpor {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  font-size: var(--font-size-9xl);
+}
+.f-r-a-m-e-delhi-airport {
+  background-color: var(--color-black);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-direction: row;
+  padding: var(--padding-lg) var(--padding-16xl) var(--padding-xl) 582px;
+  box-sizing: border-box;
+  gap: 0 55px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.daniel-eledut-xdkx1nkgjpe-unsp-icon {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.034);
+}
+.frame-delhi-goa-flight,
+.rectangle-shape,
+.wrapper-daniel-eledut-xdkx1nkg {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.wrapper-daniel-eledut-xdkx1nkg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.frame-delhi-goa-flight,
+.rectangle-shape {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  mix-blend-mode: multiply;
+  z-index: 1;
+}
+.frame-delhi-goa-flight {
+  border-radius: var(--br-11xl) 0 0 var(--br-11xl);
+  mix-blend-mode: linear-dodge;
+  z-index: 2;
+}
+.delhi1,
+.from {
+  position: relative;
+  font-weight: 300;
+  z-index: 3;
+}
+.delhi1 {
+  margin: 0;
+  align-self: stretch;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+}
+.t-e-x-ttraveler {
+  flex: 1;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-3xs);
+  font-size: var(--font-size-13xl);
+}
+.f-r-a-m-e-d-e-l-delhi-airport,
+.t-e-x-ttraveler,
+.text-friday-sunday {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text-friday-sunday {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 11px 0;
+}
+.f-r-a-m-e-d-e-l-delhi-airport {
+  height: 69px;
+  flex-direction: row;
+  padding: 0 var(--padding-8xs);
+  box-sizing: border-box;
+}
+.deldelhi-airport-india {
+  align-self: stretch;
+  position: relative;
+  font-weight: 300;
+  z-index: 3;
+}
+.t-e-x-ttoarrival {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-11xl) var(--padding-19xl)
+    var(--padding-17xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: 32px 0;
+  min-width: 195px;
+}
+.t-e-x-ttoarrival-child {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  mix-blend-mode: linear-dodge;
+  z-index: 4;
+}
+.goa1,
+.to {
+  position: relative;
+  font-weight: 300;
+  z-index: 5;
+}
+.goa1 {
+  margin: 0;
+  height: 34px;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+}
+.airport-info,
+.to-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.airport-info {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-lgi);
+  font-size: var(--font-size-13xl);
+}
+.to-parent {
+  flex-direction: column;
+  gap: 11px 0;
+}
+.g-goa-airport {
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+  z-index: 5;
+}
+.g-goa-airport-wrapper,
+.t-e-x-ttoarrival1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.g-goa-airport-wrapper {
+  width: 192px;
+  flex-direction: row;
+  padding: 0 var(--padding-9xs);
+}
+.t-e-x-ttoarrival1 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-5xs) var(--padding-13xl) var(--padding-19xl);
+  position: relative;
+  gap: 32px 0;
+  min-width: 195px;
+}
+.t-e-x-ttoarrival-item {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  mix-blend-mode: linear-dodge;
+  z-index: 3;
+}
+.departure {
+  position: relative;
+  font-weight: 300;
+  z-index: 4;
+}
+.departure-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs);
+}
+.span {
+  font-weight: 800;
+}
+.frame-container,
+.mar24 {
+  align-self: stretch;
+  flex: 1;
+}
+.mar24 {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  z-index: 4;
+}
+.frame-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px 0;
+}
+.friday {
+  position: relative;
+  font-weight: 300;
+  z-index: 4;
+}
+.friday-wrapper,
+.t-e-x-ttoarrival2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xl);
+}
+.t-e-x-ttoarrival2 {
+  height: 171px;
+  width: 168px;
+  flex-direction: column;
+  padding: var(--padding-5xs) var(--padding-11xs) var(--padding-19xl)
+    var(--padding-4xs);
+  box-sizing: border-box;
+  position: relative;
+  gap: 33px 0;
+}
+.t-e-x-ttoarrival-inner {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  mix-blend-mode: linear-dodge;
+  z-index: 2;
+}
+.return {
+  position: relative;
+  font-weight: 300;
+  z-index: 3;
+}
+.return-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm);
+}
+.span1 {
+  font-weight: 800;
+}
+.frame-div,
+.mar241 {
+  align-self: stretch;
+  flex: 1;
+}
+.mar241 {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  z-index: 3;
+}
+.frame-div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px 0;
+}
+.sunday {
+  position: relative;
+  font-weight: 300;
+  z-index: 3;
+}
+.sunday-wrapper,
+.t-e-x-ttoarrival3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-16xl) 0 var(--padding-xl);
+}
+.t-e-x-ttoarrival3 {
+  height: 171px;
+  width: 168px;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-4xs) var(--padding-18xl)
+    var(--padding-9xs);
+  box-sizing: border-box;
+  position: relative;
+  gap: 33px 0;
+}
+.traveler-details {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 0 var(--br-11xl) var(--br-11xl) 0;
+  background-color: var(--color-gainsboro);
+  mix-blend-mode: linear-dodge;
+  z-index: 3;
+}
+.travelers-and-class {
+  position: relative;
+  font-weight: 300;
+  z-index: 4;
+}
+.span2 {
+  font-weight: 800;
+}
+.traveler {
+  margin: 0;
+  height: 34px;
+  position: relative;
+  font-size: inherit;
+  display: inline-block;
+  z-index: 4;
+  font-family: inherit;
+}
+.traveler-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xl) 0 var(--padding-mini);
+  font-size: var(--font-size-13xl);
+}
+.travelers-and-class-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 11px 0;
+}
+.frame-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-10xs);
+}
+.economypremium {
+  position: relative;
+  font-weight: 300;
+  z-index: 4;
+}
+.seat-class,
+.traveler-details-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs) 0 0;
+}
+.traveler-details-parent {
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-30xl) var(--padding-18xl)
+    var(--padding-7xl);
+  position: relative;
+  gap: 33px 0;
+}
+.rectangle-delhi-airport-image,
+.t-e-x-tfromdeparture {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.t-e-x-tfromdeparture {
+  flex: 1;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-86xl) var(--padding-20xl) var(--padding-86xl)
+    var(--padding-33xl);
+  row-gap: 20px;
+}
+.rectangle-delhi-airport-image {
+  align-self: stretch;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-86xl) 80px 106px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.enter-the-code,
+.frame-child1 {
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.enter-the-code {
+  width: 560px;
+  white-space: pre-wrap;
+}
+.frame-child1 {
+  width: 1440px;
+  height: 353px;
+  background-color: var(--color-black);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.top-deals-from {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  z-index: 1;
+}
+.mumbai-top-deals {
+  width: 1280px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.etihad-airways-book-flights,
+.etihad-airways-book-flights1,
+.etihad-airways-book-flights2 {
+  position: relative;
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 244px;
+  z-index: 1;
+}
+.etihad-airways-book-flights1,
+.etihad-airways-book-flights2 {
+  min-height: 245px;
+}
+.etihad-airways-book-flights2 {
+  min-height: 243px;
+}
+.etihad-booking-section {
+  width: 1280px;
+  display: grid;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 36px;
+  max-width: 100%;
+  grid-template-columns: repeat(3, minmax(303px, 1fr));
+}
+.desktop-6,
+.rectangle-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  font-family: var(--font-inter);
+}
+.rectangle-container {
+  align-self: stretch;
+  background-color: var(--color-black);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  align-items: center;
+  padding: var(--padding-5xl) var(--padding-3xl) var(--padding-3xl);
+  box-sizing: border-box;
+  gap: 22px 0;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.desktop-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  align-items: flex-start;
+  letter-spacing: normal;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+@media screen and (max-width: 1200px) {
+  .t-e-x-ttoarrival,
+  .t-e-x-ttoarrival1 {
+    flex: 1;
+  }
+  .t-e-x-tfromdeparture {
+    flex-wrap: wrap;
+    padding-left: var(--padding-7xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .delhi1,
+  .goa1,
+  .mar24,
+  .mar241,
+  .traveler {
+    font-size: var(--font-size-7xl);
+  }
+  .enter-the-code {
+    font-size: var(--font-size-10xl);
+  }
+  .top-deals-from {
+    font-size: var(--font-size-7xl);
+  }
+  .etihad-booking-section {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(303px, 525px));
+  }
+}
+@media screen and (max-width: 750px) {
+  .f-r-a-m-emore {
+    display: none;
+  }
+  .f-r-a-m-e-delhi-airport {
+    gap: 0 55px;
+    padding-left: 291px;
+    box-sizing: border-box;
+  }
+  .rectangle-delhi-airport-image {
+    padding: var(--padding-49xl) var(--padding-21xl) 69px;
+    box-sizing: border-box;
+  }
+  .etihad-airways-book-flights,
+  .etihad-airways-book-flights1,
+  .etihad-airways-book-flights2 {
+    width: 100%;
+  }
+  .etihad-booking-section {
+    gap: 0 36px;
+    grid-template-columns: minmax(303px, 1fr);
+  }
+}
+@media screen and (max-width: 450px) {
+  .f-r-a-m-e-delhi-airport {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .from {
+    font-size: var(--font-size-base);
+  }
+  .delhi1 {
+    font-size: var(--font-size-lgi);
+  }
+  .deldelhi-airport-india {
+    font-size: var(--font-size-base);
+  }
+  .t-e-x-ttoarrival {
+    gap: 32px 0;
+  }
+  .to {
+    font-size: var(--font-size-base);
+  }
+  .goa1 {
+    font-size: var(--font-size-lgi);
+  }
+  .g-goa-airport {
+    font-size: var(--font-size-base);
+  }
+  .t-e-x-ttoarrival1 {
+    gap: 32px 0;
+  }
+  .departure {
+    font-size: var(--font-size-base);
+  }
+  .mar24 {
+    font-size: var(--font-size-lgi);
+  }
+  .friday,
+  .return {
+    font-size: var(--font-size-base);
+  }
+  .mar241 {
+    font-size: var(--font-size-lgi);
+  }
+  .sunday,
+  .travelers-and-class {
+    font-size: var(--font-size-base);
+  }
+  .traveler {
+    font-size: var(--font-size-lgi);
+  }
+  .economypremium {
+    font-size: var(--font-size-base);
+  }
+  .traveler-details-parent {
+    gap: 33px 0;
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .t-e-x-tfromdeparture {
+    padding-top: var(--padding-49xl);
+    padding-bottom: var(--padding-49xl);
+    box-sizing: border-box;
+  }
+  .enter-the-code {
+    font-size: var(--font-size-3xl);
+  }
+  .top-deals-from {
+    font-size: var(--font-size-lgi);
+  }
+  .rectangle-container {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

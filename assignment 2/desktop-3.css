@@ -1,0 +1,204 @@
+.ken-cheung-ihts16sdpl8-unsplas-icon1 {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.039);
+}
+.rectangle-frame,
+.wrapper-ken-cheung-ihts16sdpl81 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+}
+.wrapper-ken-cheung-ihts16sdpl81 {
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.rectangle-frame {
+  right: -10px;
+  bottom: -10px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 5px solid var(--color-blue);
+  box-sizing: border-box;
+  mix-blend-mode: darken;
+  z-index: 1;
+}
+.check-your-inbox {
+  height: 20px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.confirmation-frame,
+.confirmation-frame1,
+.confirmation-frame2,
+.confirmation-frame3,
+.confirmation-frame4,
+.confirmation-frame5 {
+  height: 60px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  mix-blend-mode: screen;
+  min-width: 59px;
+  max-width: 60px;
+  z-index: 2;
+}
+.frame-stack {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-base);
+  gap: 0 11px;
+}
+.didnt-receive-any,
+.resend-code {
+  position: relative;
+  z-index: 2;
+}
+.resend-code {
+  color: var(--color-aqua);
+}
+.error-message-frames {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.input-frame,
+.next-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.next-button {
+  width: 487px;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: 27px 0;
+  color: var(--color-white);
+}
+.input-frame {
+  gap: 62px 0;
+}
+.second-error-message-child {
+  height: 84px;
+  width: 298px;
+  position: relative;
+  display: none;
+  mix-blend-mode: normal;
+}
+.next2 {
+  position: relative;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 3;
+}
+.check-frame,
+.desktop-3,
+.second-error-message {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+}
+.second-error-message {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xl) var(--padding-2xl) var(--padding-xl)
+    var(--padding-xl);
+  background-color: var(--color-cornflowerblue-200);
+  width: 298px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-direction: row;
+  justify-content: center;
+  z-index: 2;
+}
+.second-error-message:hover {
+  background-color: var(--color-cornflowerblue-100);
+}
+.check-frame,
+.desktop-3 {
+  position: relative;
+}
+.check-frame {
+  width: 1090px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 228px var(--padding-11xl) var(--padding-77xl) var(--padding-xl);
+  gap: 134px 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: #787878;
+  font-family: var(--font-inter);
+}
+.desktop-3 {
+  width: 100%;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-123xl) 0 var(--padding-123xl) var(--padding-3xs);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .next2 {
+    font-size: var(--font-size-10xl);
+  }
+  .check-frame {
+    padding-top: 148px;
+    padding-bottom: 62px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 675px) {
+  .error-message-frames {
+    flex-wrap: wrap;
+  }
+  .input-frame {
+    gap: 62px 0;
+  }
+  .check-frame {
+    gap: 134px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .check-your-inbox,
+  .didnt-receive-any,
+  .resend-code {
+    font-size: var(--font-size-lgi);
+  }
+  .input-frame {
+    gap: 62px 0;
+  }
+  .next2 {
+    font-size: var(--font-size-3xl);
+  }
+  .check-frame {
+    gap: 134px 0;
+  }
+}

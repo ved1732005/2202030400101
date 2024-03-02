@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./desktop-10.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap"
+    />
+  </head>
+  <body>
+    <div class="desktop-10">
+      <div class="smashinglogo-variations-g3"></div>
+      <header class="first-frame">
+        <div class="first-frame-child"></div>
+        <div class="second-frame">
+          <img
+            class="smashinglogo-preview-goog3"
+            loading="lazy"
+            alt=""
+            src="./public/smashinglogo---preview--google-chrome-29022024-14-48-19-2-21@2x.png"
+          />
+        </div>
+        <div class="third-frame">
+          <div class="search-box">
+            <div class="search-box-child"></div>
+            <img class="search-icon5" alt="" src="./public/search1@2x.png" />
+
+            <input class="search6" placeholder="search" type="text" />
+          </div>
+        </div>
+        <div class="login-frame">
+          <button class="booked-room-message">
+            <div class="booked-room-message-child"></div>
+            <b class="loginsignin2" id="loginsigninText">login/signin</b>
+          </button>
+        </div>
+      </header>
+      <main class="line-divider1">
+        <div class="line-divider-child"></div>
+        <section class="u-p-i-container">
+          <h1 class="your-room-has">your room has been booked</h1>
+        </section>
+        <h1 class="thank-you">Thank you</h1>
+        <footer class="more-contact-link">
+          <img class="home-about-links" loading="lazy" alt="" />
+
+          <div class="first-contact-frame">
+            <div class="second-contact-frame">
+              <div class="home-wrapper">
+                <b class="home5">home</b>
+              </div>
+              <div class="about-wrapper">
+                <b class="about5">about</b>
+              </div>
+              <b class="more7">more</b>
+              <b class="contact5">contact </b>
+            </div>
+          </div>
+        </footer>
+        <div class="upi-container">
+          <b class="upi1">UPI</b>
+          <img class="ok-icon" loading="lazy" alt="" src="./public/ok@2x.png" />
+        </div>
+      </main>
+    </div>
+
+    <script>
+      var loginsigninText = document.getElementById("loginsigninText");
+      if (loginsigninText) {
+        loginsigninText.addEventListener("click", function (e) {
+          window.location.href = "./desktop-2.html";
+        });
+      }
+      </script>
+  </body>
+</html>

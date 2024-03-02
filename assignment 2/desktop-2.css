@@ -1,0 +1,282 @@
+.ken-cheung-ihts16sdpl8-unsplas-icon {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.039);
+}
+.frame-b-child,
+.wrapper-ken-cheung-ihts16sdpl8 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+}
+.wrapper-ken-cheung-ihts16sdpl8 {
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.frame-b-child {
+  right: -10px;
+  bottom: -10px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 5px solid var(--color-blue);
+  box-sizing: border-box;
+  mix-blend-mode: darken;
+  z-index: 1;
+}
+.sign-in1 {
+  position: relative;
+  z-index: 2;
+}
+.sign-in-text {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-7xs);
+  font-size: var(--font-size-17xl);
+}
+.password-input {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  mix-blend-mode: linear-dodge;
+  z-index: 2;
+}
+.email-or-phone {
+  width: 261px;
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-17xl);
+  background-color: transparent;
+  height: 44px;
+  position: relative;
+  font-weight: 700;
+  color: var(--color-gray-300);
+  text-align: left;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 3;
+}
+.frame-d {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-20xl) var(--padding-18xl);
+  position: relative;
+}
+.create-one,
+.dont-have-an {
+  position: relative;
+  z-index: 2;
+}
+.create-one {
+  color: var(--color-aqua);
+  white-space: pre-wrap;
+  cursor: pointer;
+}
+.sign-up-call-to-action {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 2px;
+  min-height: 30px;
+}
+.password1 {
+  position: relative;
+  font-size: var(--font-size-17xl);
+  z-index: 2;
+}
+.no-account-message {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px 0;
+  max-width: 100%;
+}
+.enteryourpassword-text,
+.frame-e {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.enteryourpassword-text {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background-color: var(--color-gray-100);
+  height: 122px;
+  border-radius: var(--br-11xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-20xl) var(--padding-18xl);
+  font-family: var(--font-inter);
+  font-weight: 700;
+  font-size: var(--font-size-17xl);
+  color: var(--color-gray-300);
+  min-width: 250px;
+  z-index: 2;
+}
+.frame-e {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-3xs);
+  gap: 4px 0;
+  max-width: 100%;
+}
+.forgot-password {
+  position: relative;
+  color: var(--color-aqua);
+  z-index: 2;
+}
+.frame-c {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5px 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.frame-item {
+  height: 84px;
+  width: 298px;
+  position: relative;
+  display: none;
+  mix-blend-mode: normal;
+}
+.next1 {
+  position: relative;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 3;
+}
+.vector-parent {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xl) var(--padding-2xl) var(--padding-xl)
+    var(--padding-xl);
+  background-color: var(--color-cornflowerblue-200);
+  width: 298px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.vector-parent:hover {
+  background-color: var(--color-cornflowerblue-100);
+}
+.desktop-2,
+.frame-b {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.frame-b {
+  width: 1090px;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-30xl) 112px var(--padding-73xl) var(--padding-77xl);
+  gap: 78px 0;
+  max-width: 100%;
+}
+.desktop-2 {
+  width: 100%;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-123xl) var(--padding-xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1100px) {
+  .frame-b {
+    gap: 78px 0;
+    padding-left: var(--padding-29xl);
+    padding-right: var(--padding-37xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .email-or-phone,
+  .next1,
+  .password1,
+  .sign-in1 {
+    font-size: var(--font-size-10xl);
+  }
+  .frame-b {
+    padding-top: var(--padding-13xl);
+    padding-bottom: var(--padding-41xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .sign-up-call-to-action {
+    flex-wrap: wrap;
+  }
+  .frame-b {
+    gap: 78px 0;
+    padding-left: var(--padding-5xl);
+    padding-right: var(--padding-9xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .email-or-phone,
+  .sign-in1 {
+    font-size: var(--font-size-3xl);
+  }
+  .create-one,
+  .dont-have-an {
+    font-size: var(--font-size-lgi);
+  }
+  .password1 {
+    font-size: var(--font-size-3xl);
+  }
+  .forgot-password {
+    font-size: var(--font-size-lgi);
+  }
+  .next1 {
+    font-size: var(--font-size-3xl);
+  }
+}

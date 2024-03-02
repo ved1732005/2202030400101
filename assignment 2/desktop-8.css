@@ -1,0 +1,1066 @@
+.desktop-8-child,
+.selected {
+  position: absolute;
+  display: none;
+}
+.desktop-8-child {
+  top: 117px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 904px;
+}
+.selected {
+  top: 691px;
+  left: 718px;
+  color: var(--color-black);
+}
+.smashinglogo-variations-g1 {
+  position: absolute;
+  top: -4px;
+  left: 0;
+  width: 189px;
+  height: 121px;
+  display: none;
+  z-index: 4;
+}
+.frame-child6 {
+  height: 119px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-black);
+  display: none;
+  max-width: 100%;
+}
+.about3,
+.home3 {
+  position: relative;
+  cursor: pointer;
+  z-index: 1;
+}
+.home-parent {
+  width: 219px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.contact3,
+.more3 {
+  position: relative;
+  z-index: 1;
+}
+.more3 {
+  cursor: pointer;
+}
+.contact3 {
+  white-space: nowrap;
+}
+.contact-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl) 0 0;
+}
+.loginsign-in2 {
+  position: relative;
+  white-space: nowrap;
+  cursor: pointer;
+  z-index: 1;
+}
+.frame-header {
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 44px var(--padding-9xl) var(--padding-17xl) 638px;
+  box-sizing: border-box;
+  gap: 0 40px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.frame-child7 {
+  height: 119px;
+  width: 262px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkgray);
+  display: none;
+}
+.hotel1 {
+  width: 172px;
+  position: relative;
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  white-space: nowrap;
+  z-index: 3;
+}
+.rectangle-parent4 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-13xl) var(--padding-10xl) var(--padding-10xl);
+  background-color: var(--color-darkgray);
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.rectangle-parent4:hover {
+  background-color: var(--color-gray-200);
+}
+.days-of-week-text,
+.frame-parent2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.days-of-week-text {
+  width: 262px;
+  flex-direction: column;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  margin-left: -1440px;
+}
+.frame-parent2 {
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 100%;
+  flex-direction: row;
+  z-index: 99;
+  max-width: 100%;
+}
+.desktop-8-item {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-darkgray);
+  position: absolute;
+  top: 136px;
+  left: 865px;
+  width: 269px;
+  height: 71px;
+  z-index: 2;
+}
+.reisetopia-ai6su7mu9ro-unsplas1 {
+  position: absolute;
+  top: 243px;
+  left: -14px;
+  width: 593px;
+  height: 334px;
+  display: none;
+}
+.search-bar-child {
+  height: 71px;
+  width: 534px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-darkgray);
+  display: none;
+  max-width: 100%;
+}
+.search-icon3,
+.search3 {
+  position: relative;
+  z-index: 2;
+}
+.search-icon3 {
+  height: 35px;
+  width: 27px;
+  object-fit: cover;
+}
+.search3 {
+  width: 121px;
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-17xl);
+  background-color: transparent;
+  height: 44px;
+  font-weight: 700;
+  color: rgba(230, 225, 156, 0.2);
+  text-align: left;
+}
+.room-guest-label-child,
+.search-bar {
+  background-color: var(--color-darkgray);
+}
+.search-bar {
+  flex: 1;
+  border-radius: var(--br-11xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-10xl) var(--padding-mid);
+  box-sizing: border-box;
+  gap: 0 19px;
+  min-width: 148px;
+  max-width: 100%;
+  z-index: 1;
+}
+.room-guest-label-child {
+  height: 71px;
+  width: 224px;
+  position: relative;
+  border-radius: var(--br-xl) 0 0 var(--br-xl);
+  display: none;
+}
+.room2-guest1 {
+  position: relative;
+  z-index: 2;
+}
+.room-guest-label {
+  border-radius: var(--br-xl) 0 0 var(--br-xl);
+  background-color: var(--color-darkgray);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-xs) var(--padding-mid)
+    var(--padding-3xs);
+  white-space: nowrap;
+  z-index: 1;
+}
+.more-amenities-label {
+  align-self: stretch;
+  width: 1px;
+  position: relative;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  z-index: 2;
+  margin-left: -2px;
+}
+.room-guest-label-parent,
+.search-bar-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.room-guest-label-parent {
+  height: 73px;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.search-bar-parent {
+  width: 856px;
+  gap: 0 98px;
+  max-width: 100%;
+}
+.fri1-mar-sat31 {
+  position: absolute;
+  margin: 0 !important;
+  right: 216px;
+  bottom: 17px;
+  display: inline-block;
+  z-index: 3;
+}
+.frame-child8 {
+  align-self: stretch;
+  width: 224px;
+  position: relative;
+  border-radius: 0 var(--br-xl) var(--br-xl) 0;
+  background-color: var(--color-darkgray);
+  display: none;
+}
+.line-div,
+.search4 {
+  position: relative;
+  z-index: 2;
+}
+.line-div {
+  align-self: stretch;
+  width: 1px;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.search4 {
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.rectangle-parent5,
+.search-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.rectangle-parent5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0 var(--padding-37xl) 0 var(--padding-8xl);
+  background-color: var(--color-darkgray);
+  height: 71px;
+  width: 224px;
+  border-radius: 0 var(--br-xl) var(--br-xl) 0;
+  flex-direction: row;
+  align-items: center;
+  box-sizing: border-box;
+  gap: 0 46px;
+  z-index: 1;
+}
+.search-container1 {
+  position: absolute;
+  top: 134px;
+  left: 9px;
+  width: 1349px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-9xl);
+}
+.dividerline {
+  position: absolute;
+  top: 433.5px;
+  left: 668.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 732px;
+  height: 1px;
+  z-index: 2;
+}
+.b1 {
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+  white-space: pre-wrap;
+}
+.span3 {
+  font-weight: 800;
+}
+.p1 {
+  margin: 0;
+}
+.more5 {
+  white-space: pre-wrap;
+}
+.more4 {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+}
+.amenities,
+.amenities1 {
+  white-space: pre-wrap;
+}
+.amenities {
+  margin: 0;
+}
+.more-amenities {
+  position: absolute;
+  top: 272px;
+  left: 1171px;
+  display: inline-block;
+  width: 319px;
+  z-index: 2;
+  font-size: var(--font-size-17xl);
+}
+.adam-winger-vgs8z60yt2c-unspla-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.superoliputcollectionheader {
+  height: 385px;
+  width: 511px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+  min-width: 511px;
+  max-width: 100%;
+}
+.seatingarea-child {
+  width: 754px;
+  height: 407px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-darkgray);
+  display: none;
+  max-width: 100%;
+}
+.deluxe-twin-room,
+.for-2-adults {
+  margin: 0;
+}
+.room-with-breakfast {
+  margin-bottom: 0;
+}
+.non-refundable {
+  margin-bottom: 0;
+  white-space: pre-wrap;
+}
+.room-with-breakfast-non-refund {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.blank-line {
+  margin: 0;
+}
+.deluxe-twin-room-container {
+  width: 388px;
+  height: 160px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.deluxetwinroomdescription {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+  max-width: calc(100% - 74px);
+}
+.selectedcategory {
+  height: 210.5px;
+  width: 1px;
+  position: relative;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  z-index: 3;
+}
+.balcony-terrace,
+.housekeeping {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.balcony-terrace {
+  align-items: flex-end;
+  gap: 0 73px;
+}
+.housekeeping {
+  align-items: flex-start;
+  padding: 0 var(--padding-3xs);
+  box-sizing: border-box;
+}
+.seating-area {
+  width: 202px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.housekeeping2 {
+  margin: 0;
+}
+.housekeeping1 {
+  align-self: stretch;
+  height: 78px;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+.housekeeping-wrapper {
+  width: 279px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.seating-area-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.balconyterrace {
+  flex: 1;
+  position: relative;
+  z-index: 2;
+}
+.p-a-yframe,
+.separatorline {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.separatorline {
+  width: 271px;
+  flex-direction: row;
+  padding: 0 var(--padding-11xs);
+  box-sizing: border-box;
+  margin-top: -12px;
+}
+.p-a-yframe {
+  width: 581px;
+  flex-direction: column;
+  max-width: 100%;
+}
+.adamwinger-v-gszy-tcunsplashre,
+.seatingarea {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.seatingarea {
+  flex: 1;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-darkgray);
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 var(--padding-20xl) 67px;
+  gap: 22px 0;
+  min-width: 490px;
+  z-index: 1;
+}
+.adamwinger-v-gszy-tcunsplashre {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: 0 68px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.plot-no-251b1,
+.super-oliput-collection1 {
+  margin: 0;
+}
+.super-oliput-collection-container1 {
+  width: 534px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.hotelinfotext {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-6xs);
+  box-sizing: border-box;
+  min-width: 534px;
+  max-width: 100%;
+}
+.pricerectangle-child {
+  align-self: stretch;
+  height: 301px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkgray);
+  display: none;
+}
+.luxurious-room1 {
+  margin: 0;
+}
+.luxurious-room,
+.room-size {
+  position: relative;
+  display: inline-block;
+}
+.luxurious-room {
+  height: 78px;
+  z-index: 4;
+}
+.room-size {
+  width: 207px;
+  font-size: var(--font-size-xl);
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+  z-index: 5;
+  margin-top: -39px;
+}
+.roomsizetext {
+  position: absolute;
+  top: 60px;
+  left: 50px;
+  height: 78px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.housekeepingtext-icon,
+.seatingareatext {
+  position: relative;
+  z-index: 3;
+}
+.housekeepingtext-icon {
+  height: 33px;
+  width: 35px;
+}
+.freewifitext {
+  flex: 0.7059;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-21xl) 0 0;
+  box-sizing: border-box;
+  gap: 0 9px;
+  min-width: 87px;
+  font-size: var(--font-size-13xl);
+}
+.wi-fi {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 100%;
+  height: 100%;
+  z-index: 4;
+}
+.wi-fi-icon2 {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  width: 36px;
+  height: 24px;
+  object-fit: cover;
+  z-index: 5;
+}
+.superoliputcollection {
+  height: 27px;
+  width: 43px;
+  position: relative;
+}
+.free-wifi2 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 3;
+  margin-left: -8px;
+}
+.balconyterracetext {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 88px;
+}
+.hot-springs {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 100%;
+  height: 100%;
+  z-index: 4;
+}
+.hot-springs-icon2 {
+  position: absolute;
+  top: 6px;
+  left: 24px;
+  width: 19px;
+  height: 25px;
+  object-fit: cover;
+  z-index: 5;
+}
+.hot-springs-frame1 {
+  height: 32px;
+  width: 48px;
+  position: relative;
+}
+.geyser2 {
+  position: relative;
+  z-index: 3;
+}
+.geyser-label,
+.geyserimagecontainer,
+.hot-springs-area {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.geyser-label {
+  flex-direction: column;
+  padding: var(--padding-11xs) 0 0;
+  margin-left: -4px;
+}
+.geyserimagecontainer,
+.hot-springs-area {
+  flex-direction: row;
+}
+.geyserimagecontainer {
+  flex: 0.7887;
+  flex-direction: column;
+  padding: 0 var(--padding-11xl) 0 0;
+  box-sizing: border-box;
+  min-width: 92px;
+  min-height: 37px;
+}
+.air-conditioner1 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 58px;
+  height: 32px;
+  z-index: 3;
+}
+.air-conditioner-icon2 {
+  position: absolute;
+  top: 0;
+  left: 34px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  z-index: 4;
+}
+.star-frame {
+  height: 33px;
+  flex: 1;
+  position: relative;
+}
+.ac2 {
+  position: relative;
+  z-index: 3;
+}
+.selected-category-star {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0 5px;
+}
+.a-c-frames,
+.selected-category-star,
+.wifiicons {
+  display: flex;
+  justify-content: flex-start;
+}
+.a-c-frames {
+  width: 93px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+}
+.wifiicons {
+  position: absolute;
+  top: 135px;
+  left: 51px;
+  width: 654px;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 49px;
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+}
+.line-separator1 {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 811px;
+  height: 1px;
+  z-index: 3;
+}
+.star {
+  width: 35px;
+  height: 29px;
+  position: relative;
+  border-radius: var(--br-xl);
+  z-index: 4;
+}
+.parent-frame2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.selected-catagory {
+  position: relative;
+  z-index: 3;
+}
+.more-amenities-label1 {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-5xl);
+}
+.pay-button-label,
+.roomsizetext-parent {
+  align-self: stretch;
+  height: 174px;
+  position: relative;
+  max-width: 100%;
+}
+.pay-button-label {
+  height: 1px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 3;
+}
+.us-dollar-circled2 {
+  height: 46px;
+  width: 74px;
+  position: relative;
+  border-radius: var(--br-xl);
+  z-index: 4;
+}
+.currency-circle {
+  position: relative;
+  display: inline-block;
+  z-index: 3;
+  margin-left: -3px;
+}
+.footer-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pay {
+  position: relative;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+  cursor: pointer;
+  z-index: 3;
+}
+.line-separator-label {
+  width: 744px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.payment-frame {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  gap: 7px 0;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.amenitiestext,
+.payment-frame,
+.pricerectangle {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.pricerectangle {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkgray);
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-7xs) 0 var(--padding-6xs);
+  box-sizing: border-box;
+  gap: 59px 0;
+  min-width: 527px;
+  z-index: 2;
+  color: var(--color-white);
+}
+.amenitiestext {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 12px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.adamwinger-v-gszy-tcunsplashre-parent {
+  position: absolute;
+  top: 224px;
+  left: 45px;
+  width: 1357px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 45px 0;
+  max-width: 100%;
+}
+.desktop-8 {
+  width: 100%;
+  height: 1024px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1100px) {
+  .frame-header {
+    display: none;
+  }
+  .frame-parent2 {
+    width: 0;
+  }
+  .search-container1 {
+    flex-wrap: wrap;
+  }
+  .adam-winger-vgs8z60yt2c-unspla-icon1 {
+    align-self: stretch;
+    width: auto;
+  }
+  .balcony-terrace,
+  .superoliputcollectionheader {
+    flex: 1;
+  }
+  .adamwinger-v-gszy-tcunsplashre {
+    flex-wrap: wrap;
+  }
+  .hotelinfotext {
+    flex: 1;
+  }
+  .amenitiestext {
+    flex-wrap: wrap;
+  }
+  .desktop-8 {
+    height: auto;
+    min-height: 1024;
+  }
+}
+@media screen and (max-width: 1025px) {
+  .selected {
+    font-size: var(--font-size-7xl);
+  }
+  .search3 {
+    font-size: var(--font-size-10xl);
+  }
+  .balconyterrace,
+  .deluxe-twin-room-container,
+  .housekeeping1,
+  .luxurious-room,
+  .more-amenities,
+  .seating-area,
+  .seatingareatext,
+  .super-oliput-collection-container1 {
+    font-size: var(--font-size-7xl);
+  }
+  .currency-circle {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-header {
+    gap: 0 40px;
+    padding-left: 319px;
+    box-sizing: border-box;
+  }
+  .search-bar-parent {
+    flex-wrap: wrap;
+  }
+  .superoliputcollectionheader {
+    min-width: 100%;
+  }
+  .seating-area-parent {
+    flex-wrap: wrap;
+  }
+  .hotelinfotext,
+  .seatingarea {
+    min-width: 100%;
+  }
+  .wifiicons {
+    flex-wrap: wrap;
+  }
+  .roomsizetext-parent {
+    height: auto;
+    min-height: 174;
+  }
+  .pricerectangle {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .selected {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-header {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .fri1-mar-sat31,
+  .search3,
+  .search4 {
+    font-size: var(--font-size-3xl);
+  }
+  .balconyterrace,
+  .deluxe-twin-room-container,
+  .housekeeping1,
+  .luxurious-room,
+  .more-amenities,
+  .seating-area,
+  .super-oliput-collection-container1 {
+    font-size: var(--font-size-lgi);
+  }
+  .room-size {
+    font-size: var(--font-size-base);
+  }
+  .seatingareatext {
+    font-size: var(--font-size-lgi);
+  }
+  .freewifitext {
+    flex: 1;
+  }
+  .free-wifi2,
+  .geyser2 {
+    font-size: var(--font-size-base);
+  }
+  .geyserimagecontainer {
+    flex: 1;
+  }
+  .ac2 {
+    font-size: var(--font-size-base);
+  }
+  .selected-catagory {
+    font-size: var(--font-size-lgi);
+  }
+  .currency-circle,
+  .pay {
+    font-size: var(--font-size-3xl);
+  }
+  .line-separator-label {
+    flex-wrap: wrap;
+  }
+}
